@@ -8,7 +8,6 @@ This repository is dedicated to Azure DevOps Batch 14, where you can find all th
 2. [Class Notes](#class-notes)
 3. [Assignments](#assignments)
 4. [Contributing](#contributing)
-5. [License](#license)
 
 ---
 
